@@ -21,5 +21,19 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
+  Resource Chosen: Downloaded and worked with football/futball/soccer data by joining multiple tables to analyze historical data, focusing on taggings and tags data. I didn't choose this because I wanted more challenges though, I want to make that clear. :D
+
+I chose this because I wanted to learn how to work with .csv files. I'm planning future projects wherein data comes in .csv format.
 
 - What are three things you learned during this lab?
+  Data Importation:
+
+Learned how to import CSV files into PostgreSQL using the COPY command with proper delimiter settings and handling headers.
+
+SQL Joins:
+
+Gained experience in using SQL joins to combine data from multiple tables, extracting meaningful insights such as which tags are associated with which taggable items.
+
+Saw Data for Data Analysis:
+
+Learned I probably need to learn another language if I want to work with DATA, like python or r.
