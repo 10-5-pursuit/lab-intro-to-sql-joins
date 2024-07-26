@@ -7,7 +7,7 @@ Finish Regifter, if you haven't
 ### Part 2
 
 Choose Your Own Learning
-
+q
 Rate your comfort and choose the matching activity
 
 | Rating |              What it means               |                                                                                                               What you should work on                                                                                                               |
