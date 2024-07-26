@@ -22,10 +22,4 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
-I used a previous labs bonus questions. (Rating 4)
-
 - What are three things you learned during this lab?
-
-1. 
-2.
-3.
