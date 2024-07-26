@@ -7,7 +7,7 @@ Finish Regifter, if you haven't
 ### Part 2
 
 Choose Your Own Learning
-
+q
 Rate your comfort and choose the matching activity
 
 | Rating |              What it means               |                                                                                                               What you should work on                                                                                                               |
@@ -22,4 +22,10 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+I used a previous labs bonus questions. (Rating 4)
+
 - What are three things you learned during this lab?
+
+1. 
+2.
+3.
